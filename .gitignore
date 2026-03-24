@@ -1,0 +1,17 @@
+.idea/
+.venv/
+.pytest_cache/
+.mypy_cache/
+__pycache__/
+*.py[cod]
+
+.paithon_cache/
+.paithon_review/
+.paithon_git_review/
+.paithon_datasets/
+
+build/
+dist/
+*.egg-info/
+
+.DS_Store

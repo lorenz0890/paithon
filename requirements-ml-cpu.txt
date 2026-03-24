@@ -1,0 +1,7 @@
+--index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://pypi.org/simple
+
+torch==2.8.0
+torchvision==0.23.0
+torchaudio==2.8.0
+torch_geometric==2.7.0
